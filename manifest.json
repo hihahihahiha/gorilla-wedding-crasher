@@ -1,0 +1,16 @@
+{
+  "name": "Gorilla Wedding Crasher",
+  "short_name": "GorillaShaadi",
+  "description": "Play as a hired gorilla performer at a big fat Indian wedding! Create maximum chaos.",
+  "start_url": "./wedding.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0d0010",
+  "theme_color": "#f5c842",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
